@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Search Results{% endblock %}
+{% block content %}
+<h3 align="center">Search Results</h3>
+{% if search_results %}
+  <ul>
+    {% for book in search_results %}
+      <li>{{ book.title }} <a href="{{ url_for('views.download_book', book_id=book.id) }}" class="btn btn-primary">Download</a></li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p align="center">No results found.</p>
+{% endif %}
+{% endblock %}

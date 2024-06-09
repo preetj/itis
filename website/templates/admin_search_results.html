@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Admin Search Results{% endblock %}
+
+{% block content %}
+<h3>Search Results</h3>
+<ul>
+    {% for book in search_results %}
+        <li>{{ book.title }} by {{ book.author }}
+            <form method="POST" action="{{ url_for('views.delete_book', book_id=book.id) }}" style="display:inline;">
+                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+            </form>
+        </li>
+    {% endfor %}
+</ul>
+{% endblock %}

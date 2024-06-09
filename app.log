@@ -1,0 +1,297 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:33:02] "GET /admin-home HTTP/1.1" 200 -
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:33:05] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:root:Session ID: None, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:33:05] "GET /login HTTP/1.1" 200 -
+INFO:root:Session ID: None, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:33:16] "POST /login HTTP/1.1" 200 -
+INFO:root:Session ID: None, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:33:27] "POST /login HTTP/1.1" 200 -
+INFO:root:Session ID: None, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:33:35] "GET /sign-up HTTP/1.1" 200 -
+INFO:root:Session ID: None, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:34:03] "[32mPOST /sign-up HTTP/1.1[0m" 302 -
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:34:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/furqaanm/Desktop/IT_Infra_Project/website/views.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug: * Detected change in '/Users/furqaanm/Desktop/IT_Infra_Project/website/auth.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:42:39] "GET / HTTP/1.1" 200 -
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:42:40] "GET / HTTP/1.1" 200 -
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:42:40] "GET / HTTP/1.1" 200 -
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:42:42] "[32mGET /download/3 HTTP/1.1[0m" 302 -
+INFO:root:Session ID: 9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2, User Email: None, User Role: None
+INFO:werkzeug:127.0.0.1 - - [06/Jun/2024 13:42:42] "GET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:24:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:24:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:26:19] "[32mGET /download/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:26:19] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:26:19] "GET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:26:19] "GET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:26:19] "GET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:26:20] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/furqaanm/Desktop/IT_Infra_Project/website/views.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:09] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:09] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:09] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:09] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:09] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:12] "[32mGET /download/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:12] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:12] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:12] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:12] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:49] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:49] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:49] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:49] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:49] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:54] "[32mGET /download/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:54] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:54] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:54] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:28:54] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:00] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:03] "[32mGET /download/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:03] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:03] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:03] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:03] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:06] "[32mGET /download/2 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:06] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:06] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:06] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:06] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:10] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:11] "[32mGET /download/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:11] "[35m[1mGET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:11] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:11] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:29:11] "[36mGET /download_file?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/furqaanm/Desktop/IT_Infra_Project/website/views.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:20] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:24] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:32] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:34] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:36] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:41] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:44] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:44] "GET /login?next=%2F HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:49] "POST /login?next=%2F HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:31:54] "POST /login?next=%2F HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:02] "POST /login?next=%2F HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:04] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:22] "[32mPOST /sign-up HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:23] "[32mGET /download/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:25] "[32mGET /download/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:25] "[32mGET /download/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:29] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:30] "[32mGET /download/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:32:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/furqaanm/Desktop/IT_Infra_Project/website/views.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:49] "[32mGET /download/3 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:51] "[32mGET /download/2 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:53] "[32mGET /download/2 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:54] "[32mGET /download/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:57] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:58] "[32mGET /download/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:33:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/furqaanm/Desktop/IT_Infra_Project/website/views.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug: * Detected change in '/Users/furqaanm/Desktop/IT_Infra_Project/website/views.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-729-945
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:37:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:37:25] "[32mGET /download/1 HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Jun/2024 12:37:25] "GET /download_file?session_key=9a27f765b8b4f5af05fd574a00860628571177a6033948de5f7d6b7b64f832d78fb41aba3b4b83a11bd13f7fb4914b3b1a74b050866da2d1b01c153bcf689aa2 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+ERROR:werkzeug:127.0.0.1 - - [10/Jun/2024 01:54:45] code 400, message Bad request version ('uyëG(l\\\xad¹Å`Ò\x16îFc\x19XUóóàãÖ§[Qÿ\x86\x15\x94\x88\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:54:45] "[31m[1m\x16\x03\x01\x02\x8c\x01\x00\x02\x88\x03\x03\x1b\x04r\\áDðQ\x0c\x0c\x9brDØX\x1d¶?ý\x9e\x00í\x03óÑ´ö®\x87\x8f\x7fô uyëG(l\\­¹Å`Ò\x16îFc\x19XUóóàãÖ§[Qÿ\x86\x15\x94\x88\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+ERROR:werkzeug:127.0.0.1 - - [10/Jun/2024 01:55:07] code 400, message Bad request version ('¹î\x02Æsk\x9foÓ\x07\x94ÅÇ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:55:07] "[31m[1m\x16\x03\x01\x02\x8c\x01\x00\x02\x88\x03\x031\x06·Ì\x00\x7f\x84­ßGsc`ù\x9er%Îi45\x14Ä­ø4Ðd4\x8d1\x02 \x8b\x91H\x14\x14\x93\x17Ä£ê]À \x19·)N\x1c\x85¹î\x02Æsk\x9foÓ\x07\x94ÅÇ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+ERROR:werkzeug:127.0.0.1 - - [10/Jun/2024 01:55:18] code 400, message Bad request version ('\x8f\x83úRlùu<Ç}¿ø\x01÷åE\x01¡')
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:55:18] "[31m[1m\x16\x03\x01\x02\x8c\x01\x00\x02\x88\x03\x035ôwX\x1a\x8d|Ç\x8b¶B9\x09öî`¼ i$TcG»¢pgm\x82²àÅ \x8f\x83úRlùu<Ç}¿ø\x01÷åE\x01¡[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:55:33] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:55:33] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:55:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:56:33] "[35m[1mPOST /login?next=/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:56:33] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:56:33] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:56:33] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 01:58:04] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:01:08] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:01:08] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:01:45] "[35m[1mPOST /login?next=/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:01:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:01:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:01:45] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'e:\\university\\S1\\COSC2737 ITIS\\IT_Infra_Project\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:04:02] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:04:02] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:04:33] "[35m[1mPOST /login?next=/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:04:33] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:04:33] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:04:33] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'e:\\university\\S1\\COSC2737 ITIS\\IT_Infra_Project\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:08:53] "[35m[1mPOST /login?next=/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:08:53] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:08:53] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:08:53] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:08:54] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:08:59] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:08:59] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:09:04] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:09:25] "[35m[1mPOST /login?next=/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:09:25] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:09:25] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:09:25] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:10:29] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:10:29] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:10:32] "GET /sign-up HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:11:03] "[35m[1mPOST /sign-up HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:11:03] "GET /sign-up?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:11:03] "GET /sign-up?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:11:03] "GET /sign-up?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:11:39] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:11:39] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:12:01] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:12:01] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:12:46] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:12:46] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:19] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:23] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:23] "GET /login?next=/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:35] "[35m[1mPOST /login?next=/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:36] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:36] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:36] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:16:36] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 124-952-433
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:20:41] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:20:41] "GET /login?next=%2F HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:20:44] "[32mPOST /login?next=%2F HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2024 02:20:44] "GET /admin-home HTTP/1.1" 200 -

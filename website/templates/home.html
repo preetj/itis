@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<h3 align="center">Welcome, {{ user.first_name }}</h3>
+<form method="POST" action="{{ url_for('views.home') }}">
+    <div class="form-group">
+        <label for="query">Search for books:</label>
+        <input type="text" id="query" name="query" class="form-control" placeholder="Enter book title or author">
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+{% if top_books %}
+<div class="text-center mt-4 mb-4">
+    <h4>The Top 3 Books:</h4>
+    <ul class="list-unstyled">
+        {% for book in top_books %}
+        <li><a href="{{ url_for('views.download_book', book_id=book.id) }}">{{ book.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% endblock %}
